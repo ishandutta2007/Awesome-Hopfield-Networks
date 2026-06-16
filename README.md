@@ -60,3 +60,16 @@ Introduced in recent deep learning research, these networks (Dense Associative M
 * **Paper:** [Hopfield Networks is All You Need](https://github.io)
 * **Implementation:** [GitHub - ML-JKU Hopfield Layers](https://github.com)
 * **Code Example:** [GitHub - N-Queens Problem via Hopfield Networks](https://github.com)
+
+---
+
+## 📈 Star History
+<div align="center">
+   <a href="https://www.star-history.com/#ishandutta2007/Awesome-Hopfield-Networks&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Hopfield-Networks&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Hopfield-Networks&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Hopfield-Networks&type=Date" />
+    </picture>
+   </a>
+</div>
