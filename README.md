@@ -27,9 +27,11 @@ Introduced in recent deep learning research, these networks break the linear lim
 
 ## Practical Examples & Use Cases
 
-* **Pattern Restoration / Completion:** Removing noise or static from data. If you input a noisy, partially corrupted image of a face, the network updates pixel by pixel until it snaps into a clean, fully recognized face.
-* **Combinatorial Optimization:** Solving constraint-satisfaction problems, like the Traveling Salesperson or the N-Queens problem. Neurons act as constraints, and the network settles into the optimal configuration by minimizing its energy function.
-* **Deep Learning & Attention:** Implementing specialized Hopfield layers within modern architectures to act as long-term memory components, often used in tasks like immune repertoire classification.
+| Use Case | Description | Year | Original Paper |
+| :--- | :--- | :--- | :--- |
+| **Pattern Restoration / Completion** | Removing noise or static from data. If you input a noisy, partially corrupted image of a face, the network updates pixel by pixel until it snaps into a clean, fully recognized face. | 1982 | [Neural networks and physical systems...](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) |
+| **Combinatorial Optimization** | Solving constraint-satisfaction problems, like the Traveling Salesperson or the N-Queens problem. Neurons act as constraints, and the network settles into the optimal configuration by minimizing its energy function. | 1985 | [“Neural” computation of decisions in optimization problems](https://link.springer.com/article/10.1007/BF00337288) |
+| **Deep Learning & Attention** | Implementing specialized Hopfield layers within modern architectures to act as long-term memory components, often used in tasks like immune repertoire classification. | 2020 | [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217) |
 
 ---
 
