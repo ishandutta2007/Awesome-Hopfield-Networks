@@ -1,7 +1,7 @@
 # 🧠 Awesome Hopfield Networks 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=300&section=header&text=Hopfield%20Networks&fontSize=90&animation=fadeIn&fontAlignY=38" alt="Banner" />
+  <img src="./assets/banner.svg" alt="Banner" width="800" />
   
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Hopfield-Networks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hopfield-Networks?style=for-the-badge&color=yellow" alt="stars" /></a>
